@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .bg-warning {
+    background-color: #0abab5;
+  }
+  .custom-bg{
+  }
+  .custom-bg:hover{
+  }
+  .h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+  }
